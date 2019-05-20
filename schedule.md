@@ -31,11 +31,11 @@ gantt
        prepare n1            :              after des7,12-01
 ```
 - rank：
-> 1 git
-> 2 web: front-end framework,nosql,cl/cd
-> 2 network
-> 2 linux
-> 2 oo
-> 0 development agile,scrum
-> 3 cloud
-> 10 lean startup
+>  1 git
+>  2 web: front-end framework,nosql,cl/cd
+>  2 network
+>  2 linux
+>  2 oo
+>  0 development agile,scrum
+>  3 cloud
+>  10 lean startup
