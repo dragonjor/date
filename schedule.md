@@ -32,9 +32,9 @@ gantt
 ```
 
 - rank：
->>  1 git
->>  2 web: front-end framework,nosql,cl/cd
->>   2 network
+>  1 git
+>  2 web: front-end framework,nosql,cl/cd
+>   2 network
 >>   2 linux
 >>   2 oo
 >>   0 development agile,scrum
