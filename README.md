@@ -8,7 +8,7 @@
 > kuroda san: project's information introduction
 > project:start
 
-予定：
+### 予定：
 
-2019-05-28：
-　　　進捗報告
+- 2019-05-28：
+>    進捗報告
