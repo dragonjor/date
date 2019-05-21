@@ -16,14 +16,14 @@ gantt
 
        section daikin
        training              :done,      des4, 04-01,05-20
-       prepare               :        des10,after des20, 3w
-       do project            :         des11, 06-15    , 4w
-       publish patent(maybe) :         des12,after des11,3w
+       prepare               :done,   des10,after des20, 3w
+       do project            :active,   des11, 05-21,    8w
+       publish patent(maybe) :          des12,after des11,3w
 
        section others
-       startup               :         des15,10-01,    2w
-	   deepqlearining        :               10-10,    2w
-	   funtion lanuage       :               10-20,    2w
+       startup               :          des15,10-01,    2w
+	     deepqlearining        :                10-10,    2w
+	     funtion lanuage       :                10-20,    2w
 
 
        section japanese
