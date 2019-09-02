@@ -12,3 +12,6 @@
 
 2019-05-28：
 　　　進捗報告
+
+guo:
+https://github.com/dragonjor/japanese_plan.git
